@@ -1,0 +1,18 @@
+
+connect RSS feed for newspapers
+3 buckets
+	Politics
+	Sports
+	general
+refresh every 1 hrs or manual refresh
+python
+flask
+Bart facebook llm
+feed parser
+
+code testing
+
+cronjob
+
+
+UML DIAGRAM: flow diagram/sequence diagram/usecase diagram
